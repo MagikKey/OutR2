@@ -1,0 +1,9 @@
+Package: OutR2
+Type: Package
+Title: Predictive Metrics in Psychological Research
+Version: 0.1.0
+Author: Diego Iglesias
+Maintainer: Diego Iglesias <diego.iglesias@uam.es>
+Description: Provides functions for computing predictive metrics, such as out-of-sample R2. Includes cross-validation and bootstrap methods (including .632+) for conducting a direct estimation of the prediction error, functions for splitting data and functions for generating data, which can be useful for conducting simulation studies. 
+Encoding: UTF-8
+
